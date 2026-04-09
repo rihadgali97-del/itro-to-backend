@@ -1,4 +1,4 @@
-import { User } from "../models/user.model.js"; // Added the second dot
+import { User } from "../models/user.model.js"; 
 
 const registerUser = async (req, res) => {
     try {
